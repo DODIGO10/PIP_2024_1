@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="Fondo"/>
+  <qresource prefix="Variables"/>
+  <qresource prefix="Logos">
+    <file>Imagenes/WhatsApp Image 2024-02-15 at 9.24.51 PM.jpeg</file>
+    <file>Imagenes/UAT_2018_-_2021_HORIZONTAL.jpg</file>
+    <file>Imagenes/WhatsApp Image 2024-02-15 at 6.57.13 PM.jpeg</file>
+    <file>Imagenes/WhatsApp Image 2024-02-15 at 8.14.59 PM.jpeg</file>
+    <file>Imagenes/WhatsApp Image 2024-02-15 at 8.48.55 PM.jpeg</file>
+    <file>Imagenes/WhatsApp Image 2024-02-15 at 8.48.55 PM (1).jpeg</file>
+    <file>Imagenes/WhatsApp Image 2024-02-15 at 8.48.55 PM (2).jpeg</file>
+    <file>Imagenes/images.jpg</file>
+    <file>Imagenes/fondo.jpg</file>
+  </qresource>
+</RCC>
